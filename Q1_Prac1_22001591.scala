@@ -5,5 +5,5 @@ def diskArea(radius: Double): Double = {
 }
 
 @main def main1(): Unit = {
-  println(s"Area of a disk with radius 5 units: ${diskArea(5)}")
+  println(s"Area of a disk with radius 5: ${diskArea(5)}")
 }
