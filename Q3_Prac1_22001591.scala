@@ -4,5 +4,5 @@ def volOfSphere(radius: Double): Double = {
 }
 
 @main def main3(): Unit = {
-  println(s"Volume of a sphere with radius 5: ${volOfSphere(5.00)}");
+  println(s"Volume of a sphere with radius 5 units: ${volOfSphere(5.00)}");
 }
